@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Origin, Accept-Encoding",
+    "date": "Thu, 19 Jan 2023 19:29:18 GMT",
+    "content-type": "text/javascript; charset=utf-8",
+    "x-content-source": "workers-kv",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=lo5GObrOUn1ELKaDc0Nb%2B6iUoMP0CVR40zSvBZlxF%2FTzvzrrbTxxhyW5U3w%2BlrfRLK8iYUlsj%2FJT0X9cIlUd1B6bSAJ8vBxOhD1C0tzVSI%2B1HZys6hSmckwGDBKcPGX3Qrjjheg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "78c1fa7b39ddaf4f-NRT",
+    "cf-cache-status": "HIT",
+    "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400",
+    "age": "204004",
+    "access-control-allow-origin": "*",
+    "last-modified": "Tue, 17 Jan 2023 10:49:14 GMT",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare"
+  },
+  "url": "https://esm.sh/stable/preact@10.11.0/deno/hooks.js",
+  "now": {
+    "secs_since_epoch": 1674156560,
+    "nanos_since_epoch": 606711100
+  }
+}

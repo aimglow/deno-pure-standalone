@@ -1,0 +1,3 @@
+// @deno-types="./ts_morph.d.ts"
+export * from "./ts_morph.js";
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvdHNfbW9ycGhAMTYuMC4wL21vZC50cyJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBAZGVuby10eXBlcz1cIi4vdHNfbW9ycGguZC50c1wiXG5leHBvcnQgKiBmcm9tIFwiLi90c19tb3JwaC5qc1wiO1xuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGdDQUFnQztBQUNoQyxjQUFjLGdCQUFnQiJ9
